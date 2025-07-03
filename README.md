@@ -90,7 +90,9 @@ This analysis follows a structured approach combining:
 - **Qualitative Analysis**: Expert insights and market intelligence
 
 ## Contact
-For questions about this analysis or collaboration opportunities, please reach out through the project repository.
+
+**Islam Md Monaim**  
+Email: [monaimk07@gmail.com](mailto:monaimk07@gmail.com)
 
 ---
 *This project demonstrates comprehensive market research and strategic analysis capabilities in the renewable energy sector.* 
