@@ -1,0 +1,11 @@
+company_name,market_share_percent,installed_capacity_mw,service_portfolio,geographic_presence,strength_score,weakness_score,opportunity_score,threat_score
+Eletrobras,35.2,45000,"Generation,Transmission,Distribution",Nationwide,8.5,6.2,7.8,6.5
+Engie Brasil,12.8,16500,"Generation,Energy Trading,Consulting",Southeast,7.8,5.9,8.2,6.8
+CPFL Energia,8.5,11000,"Generation,Distribution,Energy Services",Southeast,7.2,6.5,7.5,7.1
+AES Brasil,7.2,9200,"Generation,Energy Trading,Storage",Nationwide,7.5,6.8,8.0,6.9
+Votorantim Energia,6.8,8700,"Generation,Energy Trading",Southeast,6.8,7.2,7.8,7.5
+Cemig,5.9,7600,"Generation,Distribution,Transmission",Minas Gerais,6.5,7.5,6.9,7.8
+Copel,4.8,6200,"Generation,Distribution,Telecom",Parana,6.2,7.8,6.5,8.1
+Cesp,4.2,5400,"Generation,Energy Trading",Sao Paulo,5.8,8.1,6.2,8.3
+Companhia Energetica de Sao Paulo,3.8,4900,"Generation,Distribution",Sao Paulo,5.5,8.3,5.9,8.5
+Eletrosul,2.8,3600,"Generation,Transmission",South,5.2,8.5,5.6,8.7 

@@ -1,0 +1,17 @@
+customer_type,size_category,annual_consumption_gwh,decision_making_time_months,budget_range_million_usd,primary_concerns,technology_preference,geographic_location,contract_duration_years
+Utility Company,Large,5000,18,500-1000,"Reliability,Cost Efficiency,Regulatory Compliance",Conventional Hydro,Southeast,15
+Utility Company,Large,4200,16,400-800,"Grid Stability,Environmental Impact,Maintenance",Pumped Storage,Southeast,12
+Industrial User,Medium,800,8,50-150,"Energy Cost,Supply Security,Process Integration",Small Hydro,South,8
+Industrial User,Large,1500,12,150-300,"Operational Efficiency,Energy Management,Compliance",Conventional Hydro,Central-West,10
+Commercial Complex,Medium,300,6,20-80,"Energy Savings,Green Certification,Operational Cost",Micro Hydro,Northeast,5
+Commercial Complex,Small,150,4,10-40,"Initial Investment,ROI,Maintenance Simplicity",Micro Hydro,Southeast,3
+Municipal Government,Medium,600,10,60-120,"Public Service,Environmental Goals,Budget Constraints",Small Hydro,South,8
+Municipal Government,Small,250,6,25-60,"Community Benefits,Cost Effectiveness,Local Development",Micro Hydro,North,5
+Agricultural Cooperative,Medium,400,7,40-100,"Irrigation Needs,Energy Independence,Cost Reduction",Small Hydro,Central-West,6
+Agricultural Cooperative,Small,200,5,20-50,"Water Management,Energy Access,Rural Development",Micro Hydro,Northeast,4
+Mining Company,Large,2000,14,200-400,"High Energy Demand,Remote Location,Cost Control",Conventional Hydro,North,12
+Mining Company,Medium,900,9,90-180,"Energy Security,Operational Continuity,Environmental Compliance",Small Hydro,Central-West,8
+Data Center,Large,1200,10,120-250,"Uptime Requirements,Energy Efficiency,Green Energy",Pumped Storage,Southeast,8
+Data Center,Medium,600,7,60-120,"Reliability,Cost Optimization,Environmental Impact",Small Hydro,Southeast,6
+Residential Complex,Large,500,8,50-120,"Energy Savings,Community Benefits,Sustainability",Micro Hydro,South,7
+Residential Complex,Medium,250,5,25-60,"Cost Reduction,Environmental Impact,Local Generation",Micro Hydro,Northeast,4 
